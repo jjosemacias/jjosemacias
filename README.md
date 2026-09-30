@@ -19,3 +19,5 @@ Me interesa combinar la tecnología con la creatividad y la gestión. He complet
 - Inteligencia artificial
 - Gestión de proyectos
 - Marketing y branding
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=jjosemacias)](https://github.com/stats-organization/github-stats-extended)
