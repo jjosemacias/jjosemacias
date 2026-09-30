@@ -23,10 +23,10 @@ Me apasiona combinar la tecnología con la creatividad y la gestión estratégic
 
 <p align="center">
   <a href="https://github-stats-extended.vercel.app/api?username=jjosemacias&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=dark_github">
-    <img src="https://github-stats-extended.vercel.app/api?username=jjosemacias&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=dark_github" alt="GitHub Stats" width="54%">
+    <img align="top" src="https://github-stats-extended.vercel.app/api?username=jjosemacias&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=dark_github" alt="GitHub Stats">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github-stats-extended.vercel.app/api/top-langs?username=jjosemacias&layout=compact&hide_title=true&langs_count=4&hide_values=true&disable_animations=true&theme=dark_github">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=jjosemacias&layout=compact&hide_title=true&langs_count=4&hide_values=true&disable_animations=true&theme=dark_github" alt="Top Languages" width="41%">
+    <img align="top" src="https://github-stats-extended.vercel.app/api/top-langs?username=jjosemacias&layout=compact&hide_title=true&langs_count=4&hide_values=true&disable_animations=true&theme=dark_github" alt="Top Languages">
   </a>
 </p>
