@@ -19,5 +19,5 @@ Me interesa combinar la tecnología con la creatividad y la gestión. He complet
 - Inteligencia artificial
 - Gestión de proyectos
 - Marketing y branding
-- 
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jjosemacias&rank_icon=github&custom_title=Estad%C3%ADsticas%20de%20mi%20GitHub&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=jjosemacias&rank_icon=github&custom_title=Estad%C3%ADsticas%20de%20mi%20GitHub&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github)
