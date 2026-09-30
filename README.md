@@ -2,16 +2,11 @@
 
 <p align="center">
   <strong>Estudiante de Ingeniería Telemática</strong> en ESPOL · Guayaquil, Ecuador 🇪🇨<br>
-  <em>Conectando tecnología, creatividad y gestión</em>
 </p>
-
----
 
 ## 👨‍💻 Sobre mí
 
 Soy **estudiante de Ingeniería Telemática en la Escuela Superior Politécnica del Litoral (ESPOL)** y Director General en Branding. Me apasiona combinar la tecnología con la creatividad y la gestión estratégica.
-
-He completado el curso **CCNA: Introduction to Networks** de Cisco Networking Academy y continúo desarrollando mis conocimientos en redes, telecomunicaciones y transformación digital.
 
 ---
 
